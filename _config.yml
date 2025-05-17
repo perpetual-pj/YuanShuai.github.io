@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "Yuan Shuai"
+  pronouns         : "he/him"  
+  bio              : "无用之用 方为大用"
+  location         : "China"
+  employer         : "Inner Mongolia University of Technology"
+  uri              : https://www.imut.edu.cn/
+  email            : "20221100133@imut.edu.cn" 
 
   # Academic websites
   academia         : # URL
